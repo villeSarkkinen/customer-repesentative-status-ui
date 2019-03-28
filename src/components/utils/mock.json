@@ -1,0 +1,645 @@
+{
+    "groups": [
+      {
+        "id": 1,
+        "members": [
+          {
+            "id": "5c78167ab757f7c226c78c02",
+            "name": "Church Anthony",
+            "role": "exercitation",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a6c088ca9985bab14",
+                "name": "Emergent - nisi aliquip Lorem culpa",
+                "owner": "John Doe",
+                "amount": 897534,
+                "closeDate": "18.05.2019",
+                "workAmount": 237,
+                "url": "https://example.com/deals?Id=89952",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a826296f3bba51434",
+                "name": "Sloganaut - laborum tempor officia ut",
+                "owner": "John Doe",
+                "amount": 270523,
+                "closeDate": "29.04.2019",
+                "workAmount": 213,
+                "url": "https://example.com/deals?Id=41118",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a10aa944773161de0",
+                "name": "Momentia - magna dolor consectetur non",
+                "owner": "John Doe",
+                "amount": 697208,
+                "closeDate": "14.05.2019",
+                "workAmount": 138,
+                "url": "https://example.com/deals?Id=61168",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a8fc81fa4999d729e",
+            "name": "Elba Gillespie",
+            "role": "pariatur",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167ad098b46217f3bdf1",
+                "name": "Gink - minim exercitation ex laboris",
+                "owner": "John Doe",
+                "amount": 830683,
+                "closeDate": "18.03.2019",
+                "workAmount": 212,
+                "url": "https://example.com/deals?Id=38194",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a64c92d6a8c322201",
+            "name": "Cora Roberson",
+            "role": "pariatur",
+            "leads": [],
+            "deals": []
+          },
+          {
+            "id": "5c78167a58e0f8d7847a9a69",
+            "name": "Bettye Hernandez",
+            "role": "aliquip",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a8b0b4cfbb4445582",
+                "name": "Comtrak - velit eiusmod occaecat Lorem",
+                "owner": "John Doe",
+                "amount": 746858,
+                "closeDate": "15.04.2019",
+                "workAmount": 46,
+                "url": "https://example.com/deals?Id=92326",
+                "stage": "TT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "members": [
+          {
+            "id": "5c78167ade4d9e9a2bd26583",
+            "name": "Suarez Ingram",
+            "role": "ex",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a3eec372067430c97",
+                "name": "Bleeko - non est reprehenderit voluptate",
+                "owner": "John Doe",
+                "amount": 448819,
+                "closeDate": "23.04.2019",
+                "workAmount": 126,
+                "url": "https://example.com/deals?Id=48075",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a5f2619db025905ce",
+            "name": "Martina Jenkins",
+            "role": "qui",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167ac0b8494adb1f1878",
+                "name": "Talkola - laborum ea velit minim",
+                "owner": "John Doe",
+                "amount": 400616,
+                "closeDate": "08.04.2019",
+                "workAmount": 101,
+                "url": "https://example.com/deals?Id=17818",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a19d194e4eea0329f",
+                "name": "Skybold - excepteur mollit voluptate est",
+                "owner": "John Doe",
+                "amount": 766581,
+                "closeDate": "04.03.2019",
+                "workAmount": 152,
+                "url": "https://example.com/deals?Id=54769",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a802e40c6f588b7c2",
+            "name": "Rosa Moody",
+            "role": "consectetur",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a1fc6a96b2e846470",
+                "name": "Tetak - ipsum dolore consectetur occaecat",
+                "owner": "John Doe",
+                "amount": 986765,
+                "closeDate": "28.03.2019",
+                "workAmount": 62,
+                "url": "https://example.com/deals?Id=39976",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a3fbce5d85063797a",
+                "name": "Ozean - deserunt ut non laborum",
+                "owner": "John Doe",
+                "amount": 280563,
+                "closeDate": "17.03.2019",
+                "workAmount": 59,
+                "url": "https://example.com/deals?Id=96797",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167affb4cbfaba79f1aa",
+                "name": "Hairport - occaecat sint commodo fugiat jbadwi iuawbd ubaiuwd uhiuah uhiaugdw uhaiouwdh iuhaidu iuagwd",
+                "owner": "John Doe",
+                "amount": 11984,
+                "closeDate": "31.05.2019",
+                "workAmount": 26,
+                "url": "https://example.com/deals?Id=20695",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a3e4503e278abebdc",
+            "name": "Laura Rosales",
+            "role": "eiusmod",
+            "leads": [
+              {
+                "id": 99897,
+                "name": "Max Power",
+                "owner": "John Doe",
+                "status": "new",
+                "stage": "new",
+                "company": "Power Co",
+                "url": "https://example.com/leads?Id=1028923"
+            },
+            {
+              "id": 2389238,
+              "name": "Max Power",
+              "owner": "John Doe",
+              "status": "new",
+              "stage": "new",
+              "company": "Power Co",
+              "url": "https://example.com/leads?Id=1028923"
+          }
+            ],
+            "deals": [
+              {
+                "id": "5c78167a58b91e0aa6c3d6bd",
+                "name": "Datacator - aliquip id dolor laboris",
+                "owner": "John Doe",
+                "amount": 116995,
+                "closeDate": "31.05.2019",
+                "workAmount": 144,
+                "url": "https://example.com/deals?Id=32607",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167adc4554d78b6e2d67",
+                "name": "Dogspa - duis cupidatat sit veniam",
+                "owner": "John Doe",
+                "amount": 907895,
+                "closeDate": "19.03.2019",
+                "workAmount": 214,
+                "url": "https://example.com/deals?Id=17968",
+                "stage": "TT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "members": [
+          {
+            "id": "5c78167a66ae4d8479038a3d",
+            "name": "Gabriela Albert",
+            "role": "amet",
+            "leads": [
+              {
+                "id": "2e32",
+                "name": "Max Power",
+                "owner": "John Doe",
+                "status": "new",
+                "stage": "new",
+                "company": "Power Co",
+                "url": "https://example.com/leads?Id=1028923"
+            }
+            ],
+            "deals": [
+              {
+                "id": "5c78167aa2d3e6a08380f3b9",
+                "name": "Tubalum - ad consequat quis nisi",
+                "owner": "John Doe",
+                "amount": 694468,
+                "closeDate": "18.03.2019",
+                "workAmount": 138,
+                "url": "https://example.com/deals?Id=33804",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167aa2cbc65e501ed1a9",
+                "name": "Conjurica - non esse nostrud voluptate",
+                "owner": "John Doe",
+                "amount": 27052,
+                "closeDate": "23.04.2019",
+                "workAmount": 56,
+                "url": "https://example.com/deals?Id=92169",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167ad590c560196cc278",
+            "name": "Lynn Wright",
+            "role": "irure",
+            "leads": [
+              {
+                "id": "ff23f",
+                "name": "Max Power",
+                "owner": "John Doe",
+                "status": "new",
+                "stage": "new",
+                "company": "Power Co",
+                "url": "https://example.com/leads?Id=1028923"
+            },
+            {
+              "id": "23r23r2",
+              "name": "Max Power",
+              "owner": "John Doe",
+              "status": "new",
+              "stage": "new",
+              "company": "Power Co",
+              "url": "https://example.com/leads?Id=1028923"
+          },
+          {
+            "id": "erwfwf232",
+            "name": "Max Power",
+            "owner": "John Doe",
+            "status": "new",
+            "stage": "new",
+            "company": "Power Co",
+            "url": "https://example.com/leads?Id=1028923"
+        }
+            ],
+            "deals": [
+              {
+                "id": "5c78167a87711923a8515e0b",
+                "name": "Infotrips - ea do occaecat amet",
+                "owner": "John Doe",
+                "amount": 686540,
+                "closeDate": "13.03.2019",
+                "workAmount": 9,
+                "url": "https://example.com/deals?Id=45440",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167acd2e624bd7c49d05",
+                "name": "Chorizon - culpa officia exercitation commodo",
+                "owner": "John Doe",
+                "amount": 667133,
+                "closeDate": "27.04.2019",
+                "workAmount": 67,
+                "url": "https://example.com/deals?Id=52456",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167ac9ba94de876fbcc9",
+            "name": "Rita Cote",
+            "role": "sit",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167aad72cb422fb7fae4",
+                "name": "Eventage - labore ea qui qui",
+                "owner": "John Doe",
+                "amount": 115481,
+                "closeDate": "02.05.2019",
+                "workAmount": 199,
+                "url": "https://example.com/deals?Id=48829",
+                "stage": "TT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "members": [
+          {
+            "id": "5c78167ae53452ac373d0312",
+            "name": "Meadows Castillo",
+            "role": "sunt",
+            "leads": [
+              {
+                "id": "d123",
+                "name": "Max Power",
+                "owner": "John Doe",
+                "status": "new",
+                "stage": "new",
+                "company": "Power Co",
+                "url": "https://example.com/leads?Id=1028923"
+            }
+            ],
+            "deals": [
+              {
+                "id": "5c78167a88c37ff72408822e",
+                "name": "Puria - elit ad eu id",
+                "owner": "John Doe",
+                "amount": 933321,
+                "closeDate": "14.05.2019",
+                "workAmount": 150,
+                "url": "https://example.com/deals?Id=18806",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a2d59a1493f3ea5c4",
+                "name": "Inear - elit ullamco incididunt occaecat",
+                "owner": "John Doe",
+                "amount": 364730,
+                "closeDate": "15.03.2019",
+                "workAmount": 29,
+                "url": "https://example.com/deals?Id=43736",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167ac2291f0aec632564",
+                "name": "Wrapture - aute deserunt tempor magna",
+                "owner": "John Doe",
+                "amount": 394955,
+                "closeDate": "21.05.2019",
+                "workAmount": 30,
+                "url": "https://example.com/deals?Id=97275",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a5bd57ecce38a3de9",
+            "name": "Joyce Gregory",
+            "role": "id",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a1ac799c1dcd1a50f",
+                "name": "Pearlessa - nostrud magna excepteur cupidatat",
+                "owner": "John Doe",
+                "amount": 433592,
+                "closeDate": "04.05.2019",
+                "workAmount": 234,
+                "url": "https://example.com/deals?Id=65283",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a40e20e796a5d105c",
+                "name": "Edecine - ipsum nostrud culpa velit",
+                "owner": "John Doe",
+                "amount": 933297,
+                "closeDate": "27.05.2019",
+                "workAmount": 153,
+                "url": "https://example.com/deals?Id=62436",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a4eb6a74bc75548b5",
+            "name": "Zimmerman Mathis",
+            "role": "ut",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a9d2ef9b4f73c51f3",
+                "name": "Pulze - tempor velit in aliquip",
+                "owner": "John Doe",
+                "amount": 935945,
+                "closeDate": "11.03.2019",
+                "workAmount": 36,
+                "url": "https://example.com/deals?Id=94148",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167aae5d93a2a3be679d",
+                "name": "Pyrami - laboris aliquip cillum commodo",
+                "owner": "John Doe",
+                "amount": 997876,
+                "closeDate": "28.03.2019",
+                "workAmount": 47,
+                "url": "https://example.com/deals?Id=54589",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a52a2acab66f80284",
+            "name": "Tran Mullen",
+            "role": "esse",
+            "leads": [],
+            "deals": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "members": [
+          {
+            "id": "5c78167a53e28d7328918fc4",
+            "name": "Alford Roy",
+            "role": "reprehenderit",
+            "leads": [
+              {
+                "id": "df43f",
+                "name": "Max Power",
+                "owner": "John Doe",
+                "status": "new",
+                "stage": "new",
+                "company": "Power Co",
+                "url": "https://example.com/leads?Id=1028923"
+            }
+            ],
+            "deals": [
+              {
+                "id": "5c78167ac3466c14a70b261f",
+                "name": "Buzzmaker - do ut eiusmod fugiat",
+                "owner": "John Doe",
+                "amount": 324155,
+                "closeDate": "31.05.2019",
+                "workAmount": 143,
+                "url": "https://example.com/deals?Id=69606",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167af0d7a09e30d08737",
+                "name": "Kraggle - quis labore consequat proident",
+                "owner": "John Doe",
+                "amount": 708833,
+                "closeDate": "14.03.2019",
+                "workAmount": 55,
+                "url": "https://example.com/deals?Id=79517",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a0269487ec1b218b0",
+                "name": "Zosis - reprehenderit nostrud eiusmod do",
+                "owner": "John Doe",
+                "amount": 759458,
+                "closeDate": "06.05.2019",
+                "workAmount": 198,
+                "url": "https://example.com/deals?Id=57406",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167ac5b9af5931302f16",
+            "name": "Annmarie Pennington",
+            "role": "eiusmod",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a560bad860bbc16f2",
+                "name": "Injoy - mollit enim voluptate fugiat",
+                "owner": "John Doe",
+                "amount": 573815,
+                "closeDate": "28.05.2019",
+                "workAmount": 196,
+                "url": "https://example.com/deals?Id=32189",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a4c5f7256b0ad1bdf",
+                "name": "Hometown - sint id adipisicing elit",
+                "owner": "John Doe",
+                "amount": 908139,
+                "closeDate": "22.04.2019",
+                "workAmount": 213,
+                "url": "https://example.com/deals?Id=99651",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167a66d94da9f272f3df",
+            "name": "Buck Buckley",
+            "role": "aute",
+            "leads": [
+              {
+                "id": "f34f34",
+                "name": "Max Power",
+                "owner": "John Doe",
+                "status": "new",
+                "stage": "new",
+                "company": "Power Co",
+                "url": "https://example.com/leads?Id=1028923"
+            },
+            {
+              "id": "f4f4",
+              "name": "Max Power",
+              "owner": "John Doe",
+              "status": "new",
+              "stage": "new",
+              "company": "Power Co",
+              "url": "https://example.com/leads?Id=1028923"
+          }
+            ],
+            "deals": [
+              {
+                "id": "5c78167a28e1c9bb32cca6fd",
+                "name": "Lotron - occaecat occaecat aliqua nostrud",
+                "owner": "John Doe",
+                "amount": 787490,
+                "closeDate": "28.05.2019",
+                "workAmount": 75,
+                "url": "https://example.com/deals?Id=95331",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167a200afe0733d27606",
+                "name": "Interodeo - aliqua id cillum deserunt",
+                "owner": "John Doe",
+                "amount": 320762,
+                "closeDate": "28.05.2019",
+                "workAmount": 43,
+                "url": "https://example.com/deals?Id=94502",
+                "stage": "TT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "members": [
+          {
+            "id": "5c78167a037483a62eea661a",
+            "name": "Doreen Ford",
+            "role": "proident",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167ab4b473001c59c0d5",
+                "name": "Dancity - adipisicing id culpa exercitation",
+                "owner": "John Doe",
+                "amount": 309098,
+                "closeDate": "07.05.2019",
+                "workAmount": 120,
+                "url": "https://example.com/deals?Id=54864",
+                "stage": "TT"
+              },
+              {
+                "id": "5c78167afd8e4508966aee8f",
+                "name": "Coriander - anim tempor cupidatat ullamco",
+                "owner": "John Doe",
+                "amount": 732933,
+                "closeDate": "05.05.2019",
+                "workAmount": 237,
+                "url": "https://example.com/deals?Id=88242",
+                "stage": "TT"
+              }
+            ]
+          },
+          {
+            "id": "5c78167ae42bba5797639278",
+            "name": "Louella Keith",
+            "role": "exercitation",
+            "leads": [],
+            "deals": []
+          },
+          {
+            "id": "5c78167aa1ab39770dc5dadd",
+            "name": "Mandy Shaffer",
+            "role": "est",
+            "leads": [],
+            "deals": [
+              {
+                "id": "5c78167a658e8e56f7877909",
+                "name": "Unq - excepteur ut proident officia",
+                "owner": "John Doe",
+                "amount": 855842,
+                "closeDate": "20.04.2019",
+                "workAmount": 38,
+                "url": "https://example.com/deals?Id=32168",
+                "stage": "TT"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

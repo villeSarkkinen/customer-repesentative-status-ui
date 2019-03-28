@@ -1,0 +1,53 @@
+opt_out_usage
+
+default_platform(:android)
+
+platform :android do
+  desc "Runs all the tests"
+  lane :test do
+    gradle(task: "test")
+  end
+
+  desc "Submit a new Beta Build to Crashlytics Beta"
+  lane :beta do
+    Dir.chdir('../app')
+    pa = Dir.pwd
+    gradle(
+      task: "assembleRelease",
+      properties: {
+        'android.injected.signing.store.file' => pa + "/" + ENV["MYAPP_RELEASE_STORE_FILE"],
+        'android.injected.signing.store.password' => ENV["MYAPP_RELEASE_STORE_PASSWORD"],
+        'android.injected.signing.key.alias'=> ENV["MYAPP_RELEASE_KEY_ALIAS"],
+        'android.injected.signing.key.password' => ENV["MYAPP_RELEASE_KEY_PASSWORD"]
+      }
+    )
+  
+    apk_path = Actions.lane_context[SharedValues::GRADLE_APK_OUTPUT_PATH]
+    puts(apk_path)
+
+    supply(
+      apk: apk_path,
+      track: "alpha",
+      skip_upload_metadata: true,
+      skip_upload_images: true,
+      skip_upload_screenshots: true
+      )
+
+  end
+
+  desc "test"
+  lane :try do
+    Dir.chdir('../app')
+    pa = Dir.pwd
+    gradle(
+      task: "assembleRelease",
+      properties: {
+        'android.injected.signing.store.file' => pa + "/" + ENV["MYAPP_RELEASE_STORE_FILE"],
+        'android.injected.signing.store.password' => ENV["MYAPP_RELEASE_STORE_PASSWORD"],
+        'android.injected.signing.key.alias'=> ENV["MYAPP_RELEASE_KEY_ALIAS"],
+        'android.injected.signing.key.password' => ENV["MYAPP_RELEASE_KEY_PASSWORD"]
+      }
+    )
+  end
+
+end
