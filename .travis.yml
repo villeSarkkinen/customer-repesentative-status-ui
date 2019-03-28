@@ -28,7 +28,8 @@ jobs:
         - ls -l ./android/app
         # - openssl aes-256-cbc -K $encrypted_e928a807721e_key -iv $encrypted_e928a807721e_iv -in ./android/app/rnre.keystore.enc -out ./android/app/rnre.keystore -d
         # - openssl aes-256-cbc -K $encrypted_e928a807721e_key -iv $encrypted_e928a807721e_iv -in ./android/app/secrets.tar.enc -out ./android/app/secrets.tar -d
-        - openssl aes-256-cbc -K $encrypted_dc0bfcc22e44_key -iv $encrypted_dc0bfcc22e44_iv -in ./secrets/secrets.tar.enc -out ./secrets/secrets.tar -d
+        # - openssl aes-256-cbc -K $encrypted_dc0bfcc22e44_key -iv $encrypted_dc0bfcc22e44_iv -in ./secrets/secrets.tar.enc -out ./secrets/secrets.tar -d
+        - openssl aes-256-cbc -K $encrypted_0822e1e3bd37_key -iv $encrypted_0822e1e3bd37_iv -in ./secrets/secrets.tar.enc -out ./secrets/secrets.tar -d
         # - chmod +x ./android/app/secrets.tar
         - cd ./secrets
         - ls -l
