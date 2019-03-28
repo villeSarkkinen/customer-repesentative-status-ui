@@ -12,10 +12,13 @@ platform :android do
   lane :beta do
     Dir.chdir('../app')
     pa = Dir.pwd
+        puts pa
+    file = pa + "/" + ENV["MYAPP_RELEASE_STORE_FILE"]
+    puts file
     gradle(
       task: "assembleRelease",
       properties: {
-        'android.injected.signing.store.file' => pa + "/" + ENV["MYAPP_RELEASE_STORE_FILE"],
+        'android.injected.signing.store.file' => file,
         'android.injected.signing.store.password' => ENV["MYAPP_RELEASE_STORE_PASSWORD"],
         'android.injected.signing.key.alias'=> ENV["MYAPP_RELEASE_KEY_ALIAS"],
         'android.injected.signing.key.password' => ENV["MYAPP_RELEASE_KEY_PASSWORD"]

@@ -61,4 +61,4 @@ jobs:
       script: 
         - cd ./android
         - ./gradlew clean
-        - fastlane test
+        - fastlane beta
