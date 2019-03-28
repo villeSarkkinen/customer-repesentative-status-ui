@@ -2,6 +2,7 @@ jobs:
   include:
     - stage: "Tests"
       name: "unit Tests"
+      if: branch = staging
       language: node_js
       node: node
       cache:
@@ -60,4 +61,4 @@ jobs:
       script: 
         - cd ./android
         - ./gradlew clean
-        - fastlane beta
+        - fastlane test
