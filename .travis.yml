@@ -38,6 +38,7 @@ jobs:
         - cd ../android
         - yes | sdkmanager "platforms;android-27"
         - gem install fastlane --no-document --quiet
+        - cd ..
       install: yarn
       android:
         components:
